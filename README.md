@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Join my [discord server](https://discord.com/invite/Tg2PugzW3a)
+
 <!--
 **JerimiahOfficial/JerimiahOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
