@@ -6,4 +6,5 @@ Just a small developer who makes programs in his spare time.
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=%232D333B&style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%232D333B&style=for-the-badge&logo=TypeScript&logoColor=%3178C6)  
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=%232D333B&style=for-the-badge&logo=HTML5&logoColor=%23E34F26)
-![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=%232D333B&style=for-the-badge&logo=CSS3&logoColor=%23264DE4)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=%232D333B&style=for-the-badge&logo=CSS3&logoColor=%23264DE4)  
+![CMake](https://img.shields.io/static/v1?label=&message=CMake&color=%232D333B&style=for-the-badge&logo=CMake&logoColor=%23064F8C)
