@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/JerimiahOfficial">
-    <img src="https://github-readme-stats.vercel.app/api?username=JerimiahOfficial&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1C2128&hide_border=true&show_icons=true" alt="JerimiahOfficial's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JerimiahOfficial&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1C2128&hide_border=true" alt="JerimiahOfficial's GitHub stats" />
   </a>
 </p>
 
