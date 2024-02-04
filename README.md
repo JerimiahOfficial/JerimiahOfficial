@@ -2,9 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/JerimiahOfficial">
-    <img src="https://skillicons.dev/icons?i=git,cmake,cpp,cs,js,ts,nodejs,html,css,bash" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,cmake,cpp,cs,js,ts,nodejs,html,css,bash" />
 </p>
 
 ### Stats
