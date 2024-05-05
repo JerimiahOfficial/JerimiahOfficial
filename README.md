@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/JerimiahOfficial">
-    <img src="https://skillicons.dev/icons?i=git,cmake,cpp,cs,js,ts,nodejs,html,css,bash" />
+    <img src="https://skillicons.dev/icons?i=git,cmake,rust,cpp,cs,js,ts,nodejs,html,css,bash" />
   <a/>
 </p>
 
