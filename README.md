@@ -1,12 +1,14 @@
-### Skills
-
 <p align="center">
   <a href="https://github.com/JerimiahOfficial">
-    <img src="https://skillicons.dev/icons?i=git,cmake,cpp,js,ts,nodejs,html,css,bash" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,js,ts,html,css" alt="Languages"/>
   <a/>
 </p>
 
-### Stats
+<p align="center">
+  <a href="https://github.com/JerimiahOfficial">
+    <img src="https://skillicons.dev/icons?i=git,cmake,npm,nodejs,bun,deno,bash" alt="Technologies"/>
+  <a/>
+</p>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JerimiahOfficial&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1C2128&hide_border=true" alt="GitHub stats" style="float: left;pointer-events: none;" />
